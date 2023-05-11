@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!<br><br>I'm a MERN full stack developer specializing in creating responsive and scalable web applications using React.js, Node.js, and MongoDB. I'm passionate about building functional and user-friendly applications, and always seeking to learn new technologies and frameworks.<br><br>In my free time, I enjoy reading about the latest web development trends and articles. I'm a strong believer in open-source software and contributing to the development community.<br><br>Always a student in !
+Hello World!<br><br>I'm a MERN full stack developer specializing in creating responsive and scalable web applications using React.js, Node.js, and MongoDB. I'm passionate about building functional and user-friendly applications, and always seeking to learn new technologies and frameworks.<br><br>In my free time, I enjoy reading about the latest web development trends and articles. I'm a strong believer in open-source software and contributing to the development community.<br><br>Always a student in heart!
 
 
 ## 🌐 Socials:
